@@ -1,6 +1,5 @@
 {
   "repository": "#",
-  "homepage": "https://marghherita.github.io/particles-three.js/",
   "license": "UNLICENSED",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
